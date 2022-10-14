@@ -1,1 +1,1 @@
-# pharmacy-cheetsheet-ir
+# Pharmacy Cheetsheet (IR)
